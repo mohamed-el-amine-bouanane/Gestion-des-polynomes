@@ -1,0 +1,32 @@
+Classification des fichier:
++++++++++++++++++++++++++++
+codeblocks project: 
+__________________
+bin
+obj
+main.c
+main.o
+main.exe
+tpni.cbp
+tpni.layout
+bibliotheque conio :
+____________________
+conio21
+conio.c
+conio2.h
+bibliotheque pour le tp:
+________________________
+fonction.h
+graphique.h
+SDL2.dll"dll du bibliotheque SDL2 vous pouvez le copier dans C:\Windows\SysWOW64 or C:\Windows\Systeme32"
+________________________
+un vedio documentqire sur le TP1
+_________________________________________________==bibliogrqphie==_______________________________________________
+tutorials pour la bib SDL: http://lazyfoo.net/tutorials/SDL/index.php
+logo drawing :http://www.glassgiant.com/ascii/
+ploating graphes :https://github.com/bertrandmartel/plot-sdl
+SDL templates:(using and cpmpiling SDL projects whitout installing SDL):https://jeux.developpez.com/telecharger/index/categorie/709/Templates
+ploting graphes (une autre bib juste pour tracer les courbes ):http://codecutter.org/tools/koolplot/
+SDL documentation:https://devopssec.fr/article/telechargement-compilation-projet-sdl
+videos: formation video on youtube 
+aide pour corriger les erreures a chaque fois: stackoverflow,openclassroom
